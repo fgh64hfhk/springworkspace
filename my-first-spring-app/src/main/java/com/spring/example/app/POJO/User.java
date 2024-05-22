@@ -1,6 +1,7 @@
 package com.spring.example.app.POJO;
 
 import java.io.Serializable;
+import java.util.Date;
 
 import org.hibernate.annotations.DynamicInsert;
 import org.hibernate.annotations.DynamicUpdate;
@@ -30,7 +31,7 @@ public class User implements Serializable{
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column(name = "id")
+	@Column(name = "uid")
 	private Integer id;
 	
 	@Column(name = "name")
@@ -44,6 +45,9 @@ public class User implements Serializable{
 	
 	@Column(name = "password")
 	private String password;
+	
+	@Column(name = "register_date")
+	private Date register_date; 
 	
 	@Column(name = "status")
 	private String status;

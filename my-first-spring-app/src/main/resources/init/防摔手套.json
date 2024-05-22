@@ -1,0 +1,136 @@
+{
+    "防摔手套": [
+      {
+        "型號": "GK-2583 春夏防水防摔手套",
+        "種類": "防摔手套",
+        "品牌": "KOMINE",
+        "介紹": "雨季來臨，春夏必備防摔手套。",
+        "價格": 1780,
+        "尺寸": ["S", "M", "L", "XL", "2XL", "3XL"],
+        "顏色": ["黑", "黑紅"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/663c401d3fef09001184590f/800x.webp?source_format=jpg",
+          "黑紅": "https://shoplineimg.com/5be4227a02dd95000178fa71/663c401daca74f0023ca61ae/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "型號": "GK-2503 防摔手套",
+        "種類": "防摔手套",
+        "品牌": "KOMINE",
+        "介紹": "大量使用高透氣3D網布，提升舒適度，適合炎熱夏季配戴。",
+        "價格": 1700,
+        "尺寸": ["S", "M", "L", "XL", "2XL", "3XL"],
+        "顏色": ["黑", "玄武岩灰"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/663b46e504bf8e000ecaef81/800x.webp?source_format=jpg",
+          "玄武岩灰": "https://shoplineimg.com/5be4227a02dd95000178fa71/663b46e53cf2ea0014660c4a/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "型號": "GK-235 鈦合金防摔手套",
+        "種類": "防摔手套",
+        "品牌": "KOMINE",
+        "介紹": "鈦合金+碳纖維加強防護，山羊皮配戴舒適，出門防護再升級。",
+        "價格": 4450,
+        "尺寸": ["S", "M", "L", "XL", "2XL", "3XL"],
+        "顏色": ["白黑", "黑", "白紅"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/663b332fa6f80b0011c2c39b/800x.webp?source_format=jpg",
+          "白黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/663b332f89bd71001dbdf2b0/800x.webp?source_format=jpg",
+          "白紅": "https://shoplineimg.com/5be4227a02dd95000178fa71/663b332f26a7ef001d7da0ed/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "型號": "GK-224 碳纖維防摔手套",
+        "種類": "防摔手套",
+        "品牌": "KOMINE",
+        "介紹": "網眼透氣，適合夏季配戴。",
+        "價格": 2640,
+        "尺寸": ["S", "M", "L", "XL", "2XL", "3XL"],
+        "顏色": ["米色", "橄欖綠"],
+        "照片": {
+          "米色": "https://shoplineimg.com/5be4227a02dd95000178fa71/6639f36aabbefa001a34da37/800x.webp?source_format=jpg",
+          "橄欖綠": "https://shoplineimg.com/5be4227a02dd95000178fa71/6639f36ad5833d000ed39285/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "型號": "GK-1933 碳纖維防摔手套",
+        "種類": "防摔手套",
+        "品牌": "KOMINE",
+        "介紹": "網眼透氣，適合夏季配戴。",
+        "價格": 2670,
+        "尺寸": ["S", "M", "L", "XL", "2XL", "3XL"],
+        "顏色": ["橄欖綠", "黑"],
+        "照片": {
+          "橄欖綠": "https://shoplineimg.com/5be4227a02dd95000178fa71/6639dd9cd08bc9001dd1fcb5/800x.webp?source_format=jpg",
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/6639f36ad5833d000ed39285/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "型號": "TORNADO AIR 高透氣競技長手套",
+        "種類": "防摔手套",
+        "品牌": "IXON",
+        "介紹": "透氣的賽車手套，高品質工藝和優良的舒適度。",
+        "價格": 4980,
+        "尺寸": ["S", "M", "L", "XL", "2XL"],
+        "顏色": ["黑", "黑白"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/663997a630aa99001796aac1/800x.webp?source_format=jpg",
+          "黑白": "https://shoplineimg.com/5be4227a02dd95000178fa71/6639a393bf9481002065fcb7/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "型號": "THUNDER AIR 入門皮革競技長手套",
+        "種類": "防摔手套",
+        "品牌": "IXON",
+        "介紹": "無",
+        "價格": 3580,
+        "尺寸": ["S", "M", "L", "XL", "2XL"],
+        "顏色": ["黑", "黑白"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/6634b37a4b3158001d2f406c/800x.webp?source_format=jpg",
+          "黑白": "https://shoplineimg.com/5be4227a02dd95000178fa71/6639be6875cff4001d9ff0ab/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "型號": "MIRAGE AIR FLOW 女版 夏季透氣防摔短手套",
+        "種類": "防摔手套",
+        "品牌": "IXON",
+        "介紹": "無",
+        "價格": 2880,
+        "尺寸": ["XS", "S", "M", "L"],
+        "顏色": ["黑", "黑白"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/6615f91f89e525001782587d/800x.webp?source_format=jpg",
+          "黑白": "https://shoplineimg.com/5be4227a02dd95000178fa71/6615f91f578f19001149639d/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "型號": "FRTG-97M 女版 夏季牛皮防摔手套",
+        "種類": "防摔手套",
+        "品牌": "DEGNER",
+        "介紹": "無",
+        "價格": 2160,
+        "尺寸": ["S", "M", "L"],
+        "顏色": ["黑", "米白"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/661390d1c1e0200017d468f0/800x.webp?source_format=jpg",
+          "米白": "https://shoplineimg.com/5be4227a02dd95000178fa71/661390d0724d3c001aae5dac/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "型號": "TG-96M 夏季牛皮防摔手套",
+        "種類": "防摔手套",
+        "品牌": "DEGNER",
+        "介紹": "無",
+        "價格": 2160,
+        "尺寸": ["S", "M", "L"],
+        "顏色": ["黑", "米白"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/661390d1c1e0200017d468f0/800x.webp?source_format=jpg",
+          "米白": "https://shoplineimg.com/5be4227a02dd95000178fa71/661390d0724d3c001aae5dac/800x.webp?source_format=jpg"
+        }
+      }
+    ]
+  }
+  

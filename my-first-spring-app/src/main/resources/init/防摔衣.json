@@ -1,0 +1,141 @@
+{
+    "防摔衣": [
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "M-DISTRICT WR A 連帽防潑水防摔外套 亞版",
+        "介紹": "無",
+        "價格": 6780,
+        "尺寸": ["S", "M", "L", "XL", "2XL"],
+        "顏色": ["戰術綠", "黑灰"],
+        "照片": {
+          "戰術綠": "https://shoplineimg.com/5be4227a02dd95000178fa71/6634a10a544c59001abd0f52/800x.webp?source_format=jpg",
+          "黑灰": "https://shoplineimg.com/5be4227a02dd95000178fa71/6634a10a15e43d001a97ef6e/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "M-PARK AIR A 連帽防摔外套 亞版",
+        "介紹": "無",
+        "價格": 7980,
+        "尺寸": ["S", "M", "L", "XL", "2XL"],
+        "顏色": ["墨綠黑", "砂黑", "白黑"],
+        "照片": {
+          "墨綠黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/6634902c695cba000eb05bec/800x.webp?source_format=jpg",
+          "砂黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/6634902cba8ad3b354da43d5/800x.webp?source_format=jpg",
+          "白黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/6634902c903fee0011c435bf/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "M-NEFTA AIR A 軟殼運動風格防摔外套 亞版",
+        "介紹": "無",
+        "價格": 6780,
+        "尺寸": ["S", "M", "L", "XL", "2XL"],
+        "顏色": ["黑墨綠", "黑藍"],
+        "照片": {
+          "黑墨綠": "https://shoplineimg.com/5be4227a02dd95000178fa71/663480352368680011f41656/800x.webp?source_format=jpg",
+          "黑藍": "https://shoplineimg.com/5be4227a02dd95000178fa71/66348035a2d221001fc282e3/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "UNDERGROUND 滑衣 滑褲 黑白",
+        "介紹": "無",
+        "價格": 2280,
+        "尺寸": ["XS/S", "M/L", "XL/2XL"],
+        "顏色": ["滑衣", "滑褲"],
+        "照片": {
+          "滑衣": "https://shoplineimg.com/5be4227a02dd95000178fa71/6548aab0904f240017d18958/800x.webp?source_format=jpg",
+          "滑褲": "https://shoplineimg.com/5be4227a02dd95000178fa71/6548aab06181ae0011ba4153/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "JACKAL 連身皮衣 一件式 入門款 競技防摔衣",
+        "介紹": "IXON的入門款連身皮衣，採用尖端技術並配備先進材料，為您提供優秀性能與舒適性，附贈膝蓋與肘部滑塊。",
+        "價格": 28800,
+        "尺寸": ["S", "M", "L", "XL", "2XL"],
+        "顏色": ["黑", "白紅", "白黑"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/6418292815afd80020fb0871/800x.webp?source_format=jpg",
+          "白紅": "https://shoplineimg.com/5be4227a02dd95000178fa71/64182929c32f9900142b6780/800x.webp?source_format=jpg",
+          "白黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/64182929cd2cf400173a2229/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "FIERCE A 夏季連帽網布外套 防摔衣 透氣 休閒 亞版",
+        "介紹": "採用超耐磨網布與彈性布混搭，胸部與肩部的大型LOGO營造競技風格，配備七件式護具。",
+        "價格": 8280,
+        "尺寸": ["M", "L", "XL", "2XL"],
+        "顏色": ["黑白紅", "極致黑"],
+        "照片": {
+          "黑白紅": "https://shoplineimg.com/5be4227a02dd95000178fa71/6630888244eef100141cdd3e/800x.webp?source_format=jpg",
+          "極致黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/663088766f71e20023d8c691/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "SIWA AIR A 夏季網布防摔外套 亞版",
+        "介紹": "輕量化超柔軟設計，運動騎乘與通勤休閒都能兼顧的泛用款式。",
+        "價格": 5580,
+        "尺寸": ["M", "L", "XL", "2XL"],
+        "顏色": ["黑紅", "黑", "白黑"],
+        "照片": {
+          "黑紅": "https://shoplineimg.com/5be4227a02dd95000178fa71/64017a4596caf80023d16588/800x.webp?source_format=jpg",
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/64017a459392c10023ff57f3/800x.webp?source_format=jpg",
+          "白黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/6401c6f028a3e3001783de2b/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "FRESH A 夏季網布外套 亞版",
+        "介紹": "最大化透氣性、舒適性和安全性，讓你能享受炎夏的騎乘。此為亞洲版型。",
+        "價格": 6980,
+        "尺寸": ["S", "M", "L", "XL", "2XL"],
+        "顏色": ["黑", "深藍", "戰術綠"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/63d8f189fef15b708a6272b7/800x.webp?source_format=jpg",
+          "深藍": "https://shoplineimg.com/5be4227a02dd95000178fa71/63d8f18a09d2a7002324b7c7/800x.webp?source_format=jpg",
+          "戰術綠": "https://shoplineimg.com/5be4227a02dd95000178fa71/63d8f18a0fd78c4871803961/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "BURNING AIR A 夏季連帽休閒外套 亞版",
+        "介紹": "為亞洲人設計的透氣款，時尚的街頭風格外觀，適合都市騎乘。",
+        "價格": 7480,
+        "尺寸": ["S", "M", "L", "XL", "2XL"],
+        "顏色": ["黑", "深藍", "戰術綠"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/64463d068ca16400119763c2/800x.webp?source_format=jpg",
+          "深藍": "https://shoplineimg.com/5be4227a02dd95000178fa71/64463d058e16160011a95b85/800x.webp?source_format=jpg",
+          "戰術綠": "https://shoplineimg.com/5be4227a02dd95000178fa71/64463d06b07599001a67340b/800x.webp?source_format=jpg"
+        }
+      },
+      {
+        "種類": "防摔衣",
+        "品牌": "IXON",
+        "型號": "LEVANT AIR A 夏季網布外套 休閒 透氣 亞版",
+        "介紹": "專為亞洲人的剪裁版型，大面積透氣網，休閒設計適合通勤和長途使用。",
+        "價格": 5780,
+        "尺寸": ["S", "M", "L", "XL", "2XL"],
+        "顏色": ["黑", "深藍", "戰術綠"],
+        "照片": {
+          "黑": "https://shoplineimg.com/5be4227a02dd95000178fa71/63d8b216d35f2500144f8af7/800x.webp?source_format=jpg",
+          "深藍": "https://shoplineimg.com/5be4227a02dd95000178fa71/63d8b21809d2a700112491b7/800x.webp?source_format=jpg",
+          "戰術綠": "https://shoplineimg.com/5be4227a02dd95000178fa71/63d8b21e6e1a70450f682053/800x.webp?source_format=jpg"
+        }
+      }
+    ]
+  }
+  
