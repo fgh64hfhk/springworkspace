@@ -14,14 +14,14 @@
 		</section>
 	</section>
 	<section name="WorkbenchPreferenceDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="89"/>
-		<item key="DIALOG_Y_ORIGIN" value="58"/>
-		<item key="DIALOG_WIDTH" value="914"/>
+		<item key="DIALOG_X_ORIGIN" value="-407"/>
+		<item key="DIALOG_Y_ORIGIN" value="65"/>
+		<item key="DIALOG_WIDTH" value="1309"/>
 		<item key="DIALOG_HEIGHT" value="747"/>
 		<item key="DIALOG_FONT_NAME" value="1|Microsoft JhengHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft JhengHei UI"/>
 	</section>
 	<section name="PropertyDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="327"/>
+		<item key="DIALOG_X_ORIGIN" value="8"/>
 		<item key="DIALOG_Y_ORIGIN" value="126"/>
 		<item key="DIALOG_WIDTH" value="1006"/>
 		<item key="DIALOG_HEIGHT" value="556"/>

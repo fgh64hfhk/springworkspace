@@ -18,6 +18,16 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+			<item value="github"/>
+		</list>
+		<list key="issueManagementUrl">
+			<item value="https://github.com/eclipse-ee4j/jstl-api/issues"/>
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
@@ -77,6 +87,23 @@
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="com.react.application"/>
+			<item value="com.eeit82.spring_web"/>
+		</list>
+		<list key="name">
+			<item value="web_react_application"/>
+			<item value="spring_web"/>
+		</list>
+		<list key="artifactId">
+			<item value="web_react_application"/>
+			<item value="spring_web"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>

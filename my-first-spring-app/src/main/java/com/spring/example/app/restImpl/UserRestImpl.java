@@ -29,4 +29,14 @@ public class UserRestImpl implements IUserRest {
 
 	}
 
+	@Override
+	public ResponseEntity<String> login(Map<String, String> requestMap) {
+		try {
+			return userService.login(requestMap);
+		} catch (Exception e) {
+			System.out.println(e);
+			return AppUtils.getResponseEntity(AppConstants.SOMETHING_WENT_WRONG, HttpStatus.INTERNAL_SERVER_ERROR);
+		}
+	}
+
 }

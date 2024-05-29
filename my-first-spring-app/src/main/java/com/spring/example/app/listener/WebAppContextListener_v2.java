@@ -13,7 +13,7 @@ import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
 import jakarta.servlet.annotation.WebListener;
 
-@WebListener
+//@WebListener
 public class WebAppContextListener_v2 implements ServletContextListener {
 	
 	@Autowired
